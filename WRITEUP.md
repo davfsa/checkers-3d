@@ -28,11 +28,11 @@ my models were 1 unit per side.
 
 The game logic for each game mode is described in these flow charts:
 
-**Basic flow-chard:**
+**Basic flow-chart:**
 ![Basic flow-chart](images/basic_diagram.png)
-**Intermediate flow-chard:**
+**Intermediate flow-chart:**
 ![Intermediate flow-chart](images/intermediate_diagram.png)
-**Advanced flow-chard:**
+**Advanced flow-chart:**
 ![Advanced flow-chart](images/advanced_diagram.png)
 
 Once I was done implementing the base game with all the required game-modes (beginner,
